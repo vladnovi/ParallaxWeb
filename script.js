@@ -15,3 +15,7 @@ new Parallax(document.getElementById('scene_12'));
 new Parallax(document.getElementById('scene_13'));
 new Parallax(document.getElementById('scene_14'));
 new Parallax(document.getElementById('scene_15'));
+
+new Rellax('.parellax', {horizontal: true});
+
+new Parallax(document.getElementById('last_image'));

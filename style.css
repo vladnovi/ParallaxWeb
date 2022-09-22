@@ -191,7 +191,7 @@ body {
   color: #fff;
   z-index: 1;
   position: relative;
-  padding-top: 67px;
+  padding-top: 6px;
 }
 
 #head_text {
@@ -209,5 +209,47 @@ body {
 #head_text #second {
   margin-top: 25px;
   left: -200px;
+  position: relative;
+}
+
+#image {
+  margin: 334px auto 0 auto;
+  max-width: 626px;
+  height: 417px;
+  border-radius: 30px;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  z-index: 2;
+}
+#image #come_on_white {
+  color: #fff;
+  z-index: 1;
+  position: absolute;
+  margin-top: 290px;
+  top: 418px;
+  left: -287px;
+  width: 1200px;
+  text-align: center;
+  font-size: 150px;
+  line-height: 180px;
+}
+
+#come_on_black {
+  text-align: center;
+  color: black;
+  margin-top: 290px;
+  font-size: 150px;
+  z-index: 1;
+  position: relative;
+  line-height: 180px;
+}
+
+#last_image {
+  margin-top: 54px;
+}
+#last_image img {
+  max-width: 100%;
+  z-index: 1;
   position: relative;
 }/*# sourceMappingURL=style.css.map */
