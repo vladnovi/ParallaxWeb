@@ -1,1 +1,188 @@
+@font-face {
+    font-family: "Museo Sans Cyrl" ;
+    src: url(fonts/MuseoSans.ttf);
+}
 
+body {
+    margin: 0;
+    background: #fff9f9;
+}
+
+#main {
+    overflow: hidden;
+    height: 3000px;
+}
+
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.circle {
+    background: #6933dc;
+    border-radius: 50%;
+}
+
+#circle_1 {
+    position: absolute;
+    width: 946px;
+    height: 946px;
+    left: -175px;
+    top: -541px;
+}
+
+#scene_1 {
+    position: absolute;
+    right: 143.63px;
+    top: 145.57px;
+    .circle {
+        width: 52.88px;
+        height: 52.88px;
+    }
+}
+
+#scene_2 {
+    position: absolute;
+    left: 447px;
+    top: 479px;
+    .circle {
+        width: 83px;
+        height: 83px;
+    }
+}
+
+#scene_3 {
+    position: absolute;
+    left: -118.83px;
+    top: 629.83px;
+    .circle {
+        width: 53.5px;
+        height: 53.5px;
+    }
+}
+
+#scene_3-2 {
+    position: absolute;
+    left: -148px;
+    top: 635px;
+    .circle {
+        width: 346px;
+        height: 346px;
+        background: rgba(105, 51, 220, 0.06);
+    }
+}
+
+#scene_4 {
+    position: absolute;
+    right: -263px;
+    top: 307px;
+    .circle {
+        width: 674px;
+        height: 674px;
+        background: rgba(105, 51, 220, 0.06);
+    }
+}
+
+#scene_5 {
+    position: absolute;
+    right: 100.16px;
+    top: 784.4px;
+    .circle {
+        width: 119.44px;
+        height: 119.44px;
+    }
+}
+
+#scene_5-2 {
+    position: absolute;
+    left: 298px;
+    top: 921px;
+    .circle {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+#scene_6 {
+    position: absolute;
+    right: 257.7px;
+    top: 1082.79px;
+    .circle {
+        width: 53.5px;
+        height: 53.5px;
+    }
+}
+
+#scene_7 {
+    position: absolute;
+    right: 153px;
+    top: 1168px;
+    .circle {
+        width: 276px;
+        height: 276px;
+        background: rgba(105, 51, 220, 0.06);
+    }
+}
+
+#scene_8 {
+    position: absolute;
+    right: -71px;
+    top: 1303px;
+    .circle {
+        width: 168px;
+        height: 168px;
+    }
+}
+
+#scene_9 {
+    position: absolute;
+    left: -103px;
+    top: 1444px;
+    .circle {
+        width: 206px;
+        height: 206px;
+    }
+}
+
+#scene_10 {
+    position: absolute;
+    right: -110px;
+    top: 1615px;
+    .circle {
+        width: 220px;
+        height: 220px;
+        background: rgba(105, 51, 220, 0.06);
+    }
+}
+
+#scene_11 {
+    position: absolute;
+    left: -534px;
+    top: 1363px;
+    .circle {
+        width: 1450px;
+        height: 1450px;
+        background: rgba(105, 51, 220, 0.06);
+    }
+}
+
+#scene_12 {
+    position: absolute;
+    left: 304px;
+    top: 1898px;
+    .circle {
+        width: 108px;
+        height: 108px;
+    }
+}
+
+#scene_13 {
+    position: absolute;
+    right: 456px;
+    top: 1952px;
+    .circle {
+        width: 66px;
+        height: 66px;
+    }
+}
