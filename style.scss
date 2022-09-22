@@ -10,7 +10,6 @@ body {
 
 #main {
     overflow: hidden;
-    height: 3000px;
 }
 
 #container {
@@ -184,5 +183,32 @@ body {
     .circle {
         width: 66px;
         height: 66px;
+    }
+}
+
+#title {
+    font-size: 100px;
+    line-height: 120px;
+    color: #fff;
+    z-index: 1;
+    position: relative;
+    padding-top: 67px;
+}
+
+#head_text {
+    color: black;
+    font-size: 150px;
+    line-height: 180px;
+    z-index: 1;
+    #first {
+        margin-top: 282px;
+        margin-bottom: 0;
+        left: 400px;
+        position: relative;
+    }
+    #second {
+        margin-top: 25px;
+        left: -200px;
+        position: relative;
     }
 }

@@ -9,7 +9,6 @@ body {
 
 #main {
   overflow: hidden;
-  height: 3000px;
 }
 
 #container {
@@ -61,127 +60,154 @@ body {
   height: 53.5px;
 }
 
-#scene_3-2 {
+#scene_4 {
   position: absolute;
   left: -148px;
   top: 635px;
 }
-#scene_3-2 .circle {
+#scene_4 .circle {
   width: 346px;
   height: 346px;
   background: rgba(105, 51, 220, 0.06);
 }
 
-#scene_4 {
+#scene_5 {
   position: absolute;
   right: -263px;
   top: 307px;
 }
-#scene_4 .circle {
+#scene_5 .circle {
   width: 674px;
   height: 674px;
   background: rgba(105, 51, 220, 0.06);
 }
 
-#scene_5 {
+#scene_6 {
   position: absolute;
   right: 100.16px;
   top: 784.4px;
 }
-#scene_5 .circle {
+#scene_6 .circle {
   width: 119.44px;
   height: 119.44px;
 }
 
-#scene_5-2 {
+#scene_7 {
   position: absolute;
   left: 298px;
   top: 921px;
 }
-#scene_5-2 .circle {
+#scene_7 .circle {
   width: 120px;
   height: 120px;
 }
 
-#scene_6 {
+#scene_8 {
   position: absolute;
   right: 257.7px;
   top: 1082.79px;
 }
-#scene_6 .circle {
+#scene_8 .circle {
   width: 53.5px;
   height: 53.5px;
 }
 
-#scene_7 {
+#scene_9 {
   position: absolute;
   right: 153px;
   top: 1168px;
 }
-#scene_7 .circle {
+#scene_9 .circle {
   width: 276px;
   height: 276px;
   background: rgba(105, 51, 220, 0.06);
 }
 
-#scene_8 {
+#scene_10 {
   position: absolute;
   right: -71px;
   top: 1303px;
 }
-#scene_8 .circle {
+#scene_10 .circle {
   width: 168px;
   height: 168px;
 }
 
-#scene_9 {
+#scene_11 {
   position: absolute;
   left: -103px;
   top: 1444px;
 }
-#scene_9 .circle {
+#scene_11 .circle {
   width: 206px;
   height: 206px;
 }
 
-#scene_10 {
+#scene_12 {
   position: absolute;
   right: -110px;
   top: 1615px;
 }
-#scene_10 .circle {
+#scene_12 .circle {
   width: 220px;
   height: 220px;
   background: rgba(105, 51, 220, 0.06);
 }
 
-#scene_11 {
+#scene_13 {
   position: absolute;
   left: -534px;
   top: 1363px;
 }
-#scene_11 .circle {
+#scene_13 .circle {
   width: 1450px;
   height: 1450px;
   background: rgba(105, 51, 220, 0.06);
 }
 
-#scene_12 {
+#scene_14 {
   position: absolute;
   left: 304px;
   top: 1898px;
 }
-#scene_12 .circle {
+#scene_14 .circle {
   width: 108px;
   height: 108px;
 }
 
-#scene_13 {
+#scene_15 {
   position: absolute;
   right: 456px;
   top: 1952px;
 }
-#scene_13 .circle {
+#scene_15 .circle {
   width: 66px;
   height: 66px;
+}
+
+#title {
+  font-size: 100px;
+  line-height: 120px;
+  color: #fff;
+  z-index: 1;
+  position: relative;
+  padding-top: 67px;
+}
+
+#head_text {
+  color: black;
+  font-size: 150px;
+  line-height: 180px;
+  z-index: 1;
+}
+#head_text #first {
+  margin-top: 282px;
+  margin-bottom: 0;
+  left: 400px;
+  position: relative;
+}
+#head_text #second {
+  margin-top: 25px;
+  left: -200px;
+  position: relative;
 }/*# sourceMappingURL=style.css.map */
